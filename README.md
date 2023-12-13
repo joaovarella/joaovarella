@@ -9,7 +9,7 @@
       <li>Watch/Read Animes</li>
       <li>Gym</li>
       <li>Swim</li>
-      <li>Hard work</li>
+      <li>Investing/li>
     </ul>
 </div>
 
