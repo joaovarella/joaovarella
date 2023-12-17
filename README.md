@@ -1,3 +1,4 @@
+<img src="https://j.gifs.com/ygdDrX.gif" alt="matrix letter rain" style="width:1200px; height:350px;">
 <div>
   <h1> Welcome to my Profile!</h1>
     <p>I'm Joao Victor Varella Siqueira, 25 years old and a student at the University of Sao Judas Tadeu. I have a passion for science and consider myself a crazy scientist. Recently, I embarked on a journey to study software development, and the experiences have made me truly love this field. Currently, I work as a Support/Infrastructure Analyst, but I aspire to change my professional path and gain new experiences.</p>
