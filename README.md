@@ -7,9 +7,9 @@
   <h5>My hobbies are:</h5>
     <ul>
       <li>Programming</li>
-      <li>Watch/Read Animes</li>
-      <li>Gym</li>
-      <li>Swim</li>
+      <li>Watching/reading anime</li>
+      <li>Going to the gym</li>
+      <li>Swimming</li>
       <li>Investing</li>
     </ul>
 </div>
